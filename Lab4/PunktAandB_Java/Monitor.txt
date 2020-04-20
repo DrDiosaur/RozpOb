@@ -1,0 +1,115 @@
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] is wilted> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] is wilted> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] is wilted> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] is wilted>  <Plant[3, 4] is wilted> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] blooms>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] is wilted>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] is wilted>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] is wilted>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] is wilted> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] is wilted>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] blooms>  <Plant[1, 3] blooms>  <Plant[1, 4] is wilted> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] is wilted>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] is wilted>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] is wilted>  <Plant[2, 1] blooms>  <Plant[2, 2] blooms>  <Plant[2, 3] blooms>  <Plant[2, 4] blooms> 
+ <Plant[3, 0] blooms>  <Plant[3, 1] blooms>  <Plant[3, 2] blooms>  <Plant[3, 3] blooms>  <Plant[3, 4] blooms> 
+ <Plant[4, 0] is wilted>  <Plant[4, 1] blooms>  <Plant[4, 2] blooms>  <Plant[4, 3] blooms>  <Plant[4, 4] blooms> 
+
+
+
+ <Plant[0, 0] blooms>  <Plant[0, 1] blooms>  <Plant[0, 2] blooms>  <Plant[0, 3] blooms>  <Plant[0, 4] blooms> 
+ <Plant[1, 0] blooms>  <Plant[1, 1] blooms>  <Plant[1, 2] is wilted>  <Plant[1, 3] blooms>  <Plant[1, 4] blooms> 
+ <Plant[2, 0] blooms>  <Plant[2, 1] blooms>  <Plant[2, 2] bloo

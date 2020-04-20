@@ -1,0 +1,1 @@
+D:/CLion/tbb/lib/intel64/vc14/tbb.lib D:/CLion/tbb/lib/intel64/vc14/tbb_debug.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
